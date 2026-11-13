@@ -64,8 +64,8 @@ Convierte cada representación en romaji al carácter hiragana correspondiente.
 | 26 | て | Te  |
 | 27 | こ | Ko  |
 | 28 | ん | N   |
-| 29 | は | Na  | X [Na]
-| 30 | ね | Ru  | X [Ru]
+| 29 | は | Na  | X [Na] |
+| 30 | ね | Ru  | X [Ru] |
 | 31 | う | U   |
 | 32 | め | Me  |
 | 33 | そ | So  |
@@ -138,13 +138,13 @@ En esta última parte se mezclan ambas modalidades. Presta atención a lo que so
 | 88 | Romaji → Hiragana | n 　| ん|
 | 89 | Hiragana → Romaji | ゆ | Yu  |
 | 90 | Romaji → Hiragana | ha | は　| 
-| 91 | Hiragana → Romaji | だ |　-  | X [Da]
+| 91 | Hiragana → Romaji | だ |　-  | X [Da] |
 | 92 | Romaji → Hiragana | tsu | つ|
-| 93 | Hiragana → Romaji | じ | -  |  X [Ji]
+| 93 | Hiragana → Romaji | じ | -  |  X [Ji] |
 | 94 | Romaji → Hiragana | mo | も　|
 | 95 | Hiragana → Romaji | ぐ | Gu  |
 | 96 | Romaji → Hiragana | ra | ら　|
-| 97 | Hiragana → Romaji | ぴ | -  |  X [Pi]
+| 97 | Hiragana → Romaji | ぴ | -  |  X [Pi] |
 | 98 | Romaji → Hiragana | fu | ふ　|
 | 99 | Hiragana → Romaji | ぞ | zo  |
 | 100 | Romaji → Hiragana | yo | よ|
