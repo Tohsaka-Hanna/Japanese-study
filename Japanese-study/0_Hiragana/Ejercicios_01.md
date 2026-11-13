@@ -161,12 +161,14 @@ En esta última parte se mezclan ambas modalidades. Presta atención a lo que so
 
 **Caracteres que debo reforzar:**
 
-- は (Ha)
-- ね (Ne)
-- だ (Da)
-- じ (Ji)
-- ぴ (Pi)
-- よ (Yo)
+| N.º | Carácter / Pregunta | Mi respuesta | Respuesta correcta |
+|:---:|:---:|:---:|:---:|
+| 29 | は | Na | Ha |
+| 30 | ね | Ru | Ne |
+| 91 | だ | - | Da |
+| 93 | じ | - | Ji |
+| 97 | ぴ | - | Pi |
+| 100 | yo | お | よ |
 
 **Observaciones:**
 
